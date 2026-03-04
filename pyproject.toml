@@ -1,6 +1,6 @@
 [project]
 authors = [{name = "Tyler Erickson", email = "tyler@vorgeo.com"}]
-name = "TEMPLATE-rle-assessment"
+name = "rle-ruritania-test-1"
 requires-python = ">= 3.11"
 version = "0.1.0"
 
